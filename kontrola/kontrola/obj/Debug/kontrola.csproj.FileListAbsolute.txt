@@ -1,0 +1,10 @@
+C:\Users\Učenik\source\repos\kontrola\kontrola\bin\Debug\kontrola.exe.config
+C:\Users\Učenik\source\repos\kontrola\kontrola\bin\Debug\kontrola.exe
+C:\Users\Učenik\source\repos\kontrola\kontrola\bin\Debug\kontrola.pdb
+C:\Users\Učenik\source\repos\kontrola\kontrola\obj\Debug\kontrola.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\kontrola\kontrola\obj\Debug\kontrola.Form1.resources
+C:\Users\Učenik\source\repos\kontrola\kontrola\obj\Debug\kontrola.Properties.Resources.resources
+C:\Users\Učenik\source\repos\kontrola\kontrola\obj\Debug\kontrola.csproj.GenerateResource.cache
+C:\Users\Učenik\source\repos\kontrola\kontrola\obj\Debug\kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\kontrola\kontrola\obj\Debug\kontrola.exe
+C:\Users\Učenik\source\repos\kontrola\kontrola\obj\Debug\kontrola.pdb
